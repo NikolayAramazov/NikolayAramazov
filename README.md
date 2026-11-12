@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=nikolayaramazov&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156298995%3Fv%3D4" alt="nikolayaramazov hero visual" />
-</p>
+<h1 align="center">Nikolay Aramazov</h1>
 
-<p align="center"><b>Nikolay Aramazov</b> · Python / Django developer with a DevOps focus<br/><sub>Plovdiv, Bulgaria · Computer Systems and Technologies student · Automating things and building in public.</sub></p>
+<p align="center"><b>Building with Python / Django</b> · DevOps focus<br/><sub>Plovdiv, Bulgaria · Computer Systems and Technologies student · Automating things and building in public.</sub></p>
 
 <p align="center"><a href="https://github.com/nikolayaramazov">GitHub</a></p>
 
