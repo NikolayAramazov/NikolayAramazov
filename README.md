@@ -2,58 +2,34 @@
   <img src="https://www.gitskins.com/api/section/hero?username=nikolayaramazov&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156298995%3Fv%3D4" alt="nikolayaramazov hero visual" />
 </p>
 
-<p align="center"><b>Nikolay Aramazov</b> · Python / Django developer with a DevOps focus<br/><sub>Plovdiv, Bulgaria · Computer Systems and Technologies student · Automating things and building in public.</sub></p>
+<p align="center"><b>Nikolay Aramazov</b> · Frontend or full-stack engineer<br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/nikolayaramazov">GitHub</a></p>
-
-## 👋 About me
-
-I'm a junior developer who likes building backend systems in **Python** and shipping them with **DevOps** practices: containers, CI/CD and Infrastructure as Code. I build web apps with Django and PostgreSQL, package them with Docker, and deploy them to the cloud with Terraform on Azure.
-
-I'm looking for a junior **Python / Django / backend** or **DevOps** role.
-
-<details open>
-<summary><b>🧰 Stack</b></summary>
-<br/>
-
-**Languages & frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**DevOps & cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
 <br/>
 
-**Python & backend**
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=nikolayaramazov&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156298995%3Fv%3D4" alt="nikolayaramazov projects visual" />
+</p>
 
-- [Django-e-commerece](https://github.com/NikolayAramazov/Django-e-commerece) · TechZone, a full-stack Django e-commerce app with product listings, user authentication, a shopping cart and a PostgreSQL database
-- [FastAPI-TodoApp](https://github.com/NikolayAramazov/FastAPI-TodoApp) · a Python REST API built with FastAPI
+- [Django-e-commerece](https://github.com/NikolayAramazov/Django-e-commerece) · ★ 0
+- [Quiz-system-University-Project](https://github.com/NikolayAramazov/Quiz-system-University-Project) · ★ 0
+- [Petstagram-SoftUni-Project-](https://github.com/NikolayAramazov/Petstagram-SoftUni-Project-) · ★ 0
+- [FastAPI-TodoApp](https://github.com/NikolayAramazov/FastAPI-TodoApp) · ★ 0
+- [GeomatryCalc-University-Project](https://github.com/NikolayAramazov/GeomatryCalc-University-Project) · ★ 0
+- [HouseRentJenkins](https://github.com/NikolayAramazov/HouseRentJenkins) · ★ 0
 
-**Python + DevOps**
+</details>
 
-- [Quiz-system-University-Project](https://github.com/NikolayAramazov/Quiz-system-University-Project) · a learning platform inspired by TryHackMe, deployed on Azure with Terraform (Infrastructure as Code)
-- [Petstagram-SoftUni-Project-](https://github.com/NikolayAramazov/Petstagram-SoftUni-Project-) · a Django app containerized with Docker and Docker Compose (web + database)
-- [HouseRentJenkins](https://github.com/NikolayAramazov/HouseRentJenkins) · CI/CD practice with Jenkins
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=nikolayaramazov&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156298995%3Fv%3D4" alt="nikolayaramazov stack visual" />
+</p>
 
 </details>
 
@@ -80,7 +56,7 @@ I'm looking for a junior **Python / Django / backend** or **DevOps** role.
 </details>
 
 <details>
-<summary><b>📫 Say hello</b></summary>
+<summary><b>👋 Say hello</b></summary>
 <br/>
 
 <p align="center">
